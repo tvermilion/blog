@@ -8,4 +8,4 @@ This blog will be broad writings to help me keep writing and coming up with idea
 
 ## Section Header
 
-Perhaps stories from my life, essays on various tops just as long as I'm writing
+Perhaps stories from my life, essays on various tops just as long as I'm writing.
