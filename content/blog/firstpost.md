@@ -2,7 +2,7 @@
 title: Post One.
 description: Getting Started
 date: 2026-01-02
-tags: another tag
+tags: Writing, ideas
 ---
 This blog will be broad writings to help me keep writing and coming up with ideas for the sake of ideas.
 
