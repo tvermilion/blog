@@ -1,6 +1,6 @@
 ---
-title: Post One.
-description: Getting Started
+title: Post Two.
+description: Automated Printing
 date: 2026-02-02
 tags: Writing, ideas
 ---
