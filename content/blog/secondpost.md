@@ -1,7 +1,7 @@
 ---
 title: Post One.
 description: Getting Started
-date: 2026-01-02
+date: 2026-02-02
 tags: Writing, ideas
 ---
 The idea of print on demand captured my imagination.
